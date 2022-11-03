@@ -1,5 +1,7 @@
 # F/A-18 PSF (Precision Strike Fighter)
 
+![Screenshot](screenshot.png?raw=true)
+
 ## Download
 
 F/A-18 PSF is currently listed as abandonware and it can be downloaded for free from the following link: https://www.myabandonware.com/game/f-a-18-precision-strike-fighter-a56
